@@ -1,0 +1,11 @@
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\bin\Debug\netcoreapp2.0\movierecommender.deps.json
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\bin\Debug\netcoreapp2.0\movierecommender.runtimeconfig.json
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\bin\Debug\netcoreapp2.0\movierecommender.runtimeconfig.dev.json
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\bin\Debug\netcoreapp2.0\movierecommender.dll
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\bin\Debug\netcoreapp2.0\movierecommender.pdb
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.dll
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.pdb
+C:\Users\edwin\OneDrive\Documents\GitHub\RecommendationEngine\movierecommender\obj\Debug\netcoreapp2.0\movierecommender.csprojResolveAssemblyReference.cache
